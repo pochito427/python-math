@@ -8,8 +8,11 @@ This syllabus is the full course, designed as a one-semester college course, wit
 Some videos will reference problems from textbooks, so here are the two textbooks we will use:<br>
 1. Business Math, a Step-by-Step Handbook (2021) by Jean-Paul Oliver<br>
     [Link to the online PDF you can download](https://lyryx.com/subjects/business/business-mathematics/)<br>
+    [Backup link to PDF file](https://lila1.lyryx.com/unprotected-servlets/textbooks/OLIVIER_1/marketing/Olivier-BusinessMath.pdf?token=I1TWz113ong0fubz2xPIALmWJHSifrPIPRQ7yECa0zk=)<br>
 2. Algebra and Trigonometry by Jay Abramson<br>
-    [Link to the online PDF you can download](https://openstax.org/details/books/algebra-and-trigonometry)<p>
+    [Link to the online PDF you can download](https://openstax.org/details/books/algebra-and-trigonometry)<br>
+    [Backup link to PDF file](https://assets.openstax.org/oscms-prodcms/media/documents/Algebra-and-Trigonometry-2e-WEB.pdf)
+<p>
 <p>
 <hr>
 <p>
