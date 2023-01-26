@@ -25,7 +25,7 @@ Your journey begins here as you learn the math, learn the code, and build your n
 Question:<br>
 When adding text in Google Colab, what symbol would you use to create a heading that will appear in the table of contents?<br>
 __ *<br>
-__ #<br> 
+_X_ #<br> 
 __ @<br>
 __ %<br>
  
@@ -39,7 +39,7 @@ Now we get to the math content. This video will show you how to set up and solve
 
 Question:<br>
 In solving a proportion, if one numerator is zero, does the other numerator have to be zero for the statement to be true?<br>
-__ yes<br>
+_X_ yes<br>
 __ no<br>
 __ sometimes<br>
 
@@ -67,11 +67,12 @@ Question:<br>
 What is another way to write 0.9999... (repeating decimal)?<br>
 __ 99 percent<br>
 __ You can't get an exact answer<br>
-__ 1<br>
+_X_ 1<br>
 __ almost 1<br>
  
 [comment]: <> (1 is correct)
-
+<br>
+ [Solutions for week 1 in Colab notebook](https://colab.research.google.com/drive/1j-Lg_26dqlgGj1KVkxDNg6EeBR2tWkUd?usp=sharing)
 <p>
 <hr>
 <p>
