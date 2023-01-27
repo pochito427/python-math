@@ -87,7 +87,7 @@ This unit will focus on how to solve for an unknown number (often referred to as
 Question:<br>
 In Python, what is the library you import to solve Algebra problems with variables?<br>
 __ symba<br>
-__ sympy<br>
+_X_ sympy<br>
 __ the sympsons<br>
 __ math<br>
  
@@ -114,13 +114,15 @@ The next video will go deeper, with more examples of how to use SymPy solve. It 
 [video - Extra problems](https://www.youtube.com/embed/lFTCVUCbNoM)<p>
 
 Question:<br>
-If you import sympy and define x as a variable, what would be the output of sympy.solve(x**2-4,0)?<br>
+If you import sympy and define x as a variable, what would be the output of sympy.solve(x**2-4,x)?<br>
 __ x<sup>2</sup> - 4<br>
 __ (x + 2)(x - 2)<br>
 __ sqrt(2)<br>
-__ 2, -2<br>
+_X_ [2, -2]<br>
  
-[comment]: <> (x+2 x-2 is correct)
+[comment]: <> (2, -2 is correct)
+<br>
+ [Solutions for week 2 in Colab notebook](https://colab.research.google.com/drive/1yv7qUbHZ_AfkKDcDKtqzh7HuMmqQF-GP?usp=sharing)
 <p>
 <hr>
 <p>
